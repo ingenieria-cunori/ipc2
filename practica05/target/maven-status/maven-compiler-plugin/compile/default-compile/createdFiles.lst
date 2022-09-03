@@ -1,0 +1,11 @@
+com/cunori/practica05/Practica05.class
+com/cunori/model/Detalle.class
+com/cunori/model/Venta.class
+com/cunori/dao/Conexion.class
+com/cunori/model/Producto.class
+com/cunori/idao/IVentaDao.class
+com/cunori/dao/VentaDaoImpl.class
+com/cunori/dao/ProductoDaoImpl.class
+com/cunori/idao/IProductoDao.class
+com/cunori/dao/DetalleDaoImpl.class
+com/cunori/idao/IDetalleDao.class
