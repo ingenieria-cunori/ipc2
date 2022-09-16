@@ -1,2 +1,3 @@
-com/cunori/practica07/Practica07.class
-com/cunori/operaciones/Operacion.class
+com/cunori/models/Rectangulo.class
+com/cunori/models/Circulo.class
+com/cunori/main/Main.class

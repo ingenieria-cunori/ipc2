@@ -1,12 +1,3 @@
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/idao/IDetalleDao.java
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/idao/IProductoDao.java
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/dao/VentaDaoImpl.java
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/operaciones/Operacion.java
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/idao/IVentaDao.java
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/dao/DetalleDaoImpl.java
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/model/Detalle.java
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/model/Producto.java
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/model/Venta.java
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/dao/ProductoDaoImpl.java
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/dao/Conexion.java
-/home/hendrick/Documentos/IPC2/practica07/src/main/java/com/cunori/practica07/Practica07.java
+/home/hendrick/NetBeansProjects/TestJUnit5/src/main/java/com/cunori/models/Circulo.java
+/home/hendrick/NetBeansProjects/TestJUnit5/src/main/java/com/cunori/models/Rectangulo.java
+/home/hendrick/NetBeansProjects/TestJUnit5/src/main/java/com/cunori/main/Main.java
