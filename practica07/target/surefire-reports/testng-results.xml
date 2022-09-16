@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="13" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.cunori_practica07_jar_1.0-SNAPSHOT" duration-ms="344" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+    <groups>
+      <group name="g1">
+        <method signature="Aritmetica.testRestar2()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="testRestar2" class="com.cunori.test.Aritmetica"/>
+        <method signature="Aritmetica.testSumar()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="testSumar" class="com.cunori.test.Aritmetica"/>
+        <method signature="Aritmetica.testSumar2()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="testSumar2" class="com.cunori.test.Aritmetica"/>
+        <method signature="Aritmetica.testRestar2()[pri:0, instance:com.cunori.test.Aritmetica@30a3107a]" name="testRestar2" class="com.cunori.test.Aritmetica"/>
+        <method signature="Aritmetica.testSumar()[pri:0, instance:com.cunori.test.Aritmetica@30a3107a]" name="testSumar" class="com.cunori.test.Aritmetica"/>
+        <method signature="Aritmetica.testSumar2()[pri:0, instance:com.cunori.test.Aritmetica@30a3107a]" name="testSumar2" class="com.cunori.test.Aritmetica"/>
+        <method signature="Aritmetica.testSumar()[pri:0, instance:com.cunori.test.Aritmetica@76b0bfab]" name="testSumar" class="com.cunori.test.Aritmetica"/>
+        <method signature="Aritmetica.testSumar2()[pri:0, instance:com.cunori.test.Aritmetica@76b0bfab]" name="testSumar2" class="com.cunori.test.Aritmetica"/>
+      </group> <!-- g1 -->
+      <group name="g2">
+        <method signature="Aritmetica.testRestar()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="testRestar" class="com.cunori.test.Aritmetica"/>
+        <method signature="Aritmetica.testRestar2()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="testRestar2" class="com.cunori.test.Aritmetica"/>
+        <method signature="Aritmetica.testRestar2()[pri:0, instance:com.cunori.test.Aritmetica@30a3107a]" name="testRestar2" class="com.cunori.test.Aritmetica"/>
+      </group> <!-- g2 -->
+    </groups>
+    <test name="TestProductos" duration-ms="282" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+      <class name="com.cunori.test.TestProductos">
+        <test-method status="PASS" signature="testGetProductos()[pri:0, instance:com.cunori.test.TestProductos@43814d18]" name="testGetProductos" duration-ms="248" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetProductos -->
+      </class> <!-- com.cunori.test.TestProductos -->
+    </test> <!-- TestProductos -->
+    <test name="Aritmetica básica" duration-ms="23" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+      <class name="com.cunori.test.Aritmetica">
+        <test-method status="PASS" signature="testini()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="testini" is-config="true" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testini -->
+        <test-method status="PASS" signature="t0()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="t0" is-config="true" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t0 -->
+        <test-method status="PASS" signature="t1()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="t1" is-config="true" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method status="PASS" signature="testRestar()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="testRestar" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRestar -->
+        <test-method status="PASS" signature="t2()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="t2" is-config="true" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method status="PASS" signature="t1()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="t1" is-config="true" duration-ms="0" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method status="PASS" signature="testRestar2()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="testRestar2" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRestar2 -->
+        <test-method status="PASS" signature="t2()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="t2" is-config="true" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method status="PASS" signature="t1()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="t1" is-config="true" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method status="PASS" signature="testSumar()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="testSumar" duration-ms="2" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSumar -->
+        <test-method status="PASS" signature="t2()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="t2" is-config="true" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method status="PASS" signature="t1()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="t1" is-config="true" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method status="PASS" signature="testSumar2()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="testSumar2" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSumar2 -->
+        <test-method status="PASS" signature="t2()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="t2" is-config="true" duration-ms="6" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method status="PASS" signature="testfin()[pri:0, instance:com.cunori.test.Aritmetica@2781e022]" name="testfin" is-config="true" duration-ms="0" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfin -->
+      </class> <!-- com.cunori.test.Aritmetica -->
+    </test> <!-- Aritmetica básica -->
+    <test name="Aritmetica por grupos" duration-ms="8" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+      <class name="com.cunori.test.Aritmetica">
+        <test-method status="PASS" signature="testRestar2()[pri:0, instance:com.cunori.test.Aritmetica@30a3107a]" name="testRestar2" duration-ms="0" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRestar2 -->
+        <test-method status="PASS" signature="testSumar()[pri:0, instance:com.cunori.test.Aritmetica@30a3107a]" name="testSumar" duration-ms="0" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSumar -->
+        <test-method status="PASS" signature="testSumar2()[pri:0, instance:com.cunori.test.Aritmetica@30a3107a]" name="testSumar2" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSumar2 -->
+      </class> <!-- com.cunori.test.Aritmetica -->
+    </test> <!-- Aritmetica por grupos -->
+    <test name="Test por methodos" duration-ms="5" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+      <class name="com.cunori.test.Aritmetica">
+        <test-method status="PASS" signature="testini()[pri:0, instance:com.cunori.test.Aritmetica@76b0bfab]" name="testini" is-config="true" duration-ms="0" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testini -->
+        <test-method status="PASS" signature="t0()[pri:0, instance:com.cunori.test.Aritmetica@76b0bfab]" name="t0" is-config="true" duration-ms="0" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t0 -->
+        <test-method status="PASS" signature="testSumar()[pri:0, instance:com.cunori.test.Aritmetica@76b0bfab]" name="testSumar" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSumar -->
+        <test-method status="PASS" signature="t1()[pri:0, instance:com.cunori.test.Aritmetica@76b0bfab]" name="t1" is-config="true" duration-ms="0" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method status="PASS" signature="t2()[pri:0, instance:com.cunori.test.Aritmetica@76b0bfab]" name="t2" is-config="true" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method status="PASS" signature="t1()[pri:0, instance:com.cunori.test.Aritmetica@76b0bfab]" name="t1" is-config="true" duration-ms="1" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method status="PASS" signature="testSumar2()[pri:0, instance:com.cunori.test.Aritmetica@76b0bfab]" name="testSumar2" duration-ms="0" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSumar2 -->
+        <test-method status="PASS" signature="t2()[pri:0, instance:com.cunori.test.Aritmetica@76b0bfab]" name="t2" is-config="true" duration-ms="0" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method status="PASS" signature="testfin()[pri:0, instance:com.cunori.test.Aritmetica@76b0bfab]" name="testfin" is-config="true" duration-ms="0" started-at="2022-03-25T18:46:32 CST" finished-at="2022-03-25T18:46:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfin -->
+      </class> <!-- com.cunori.test.Aritmetica -->
+    </test> <!-- Test por methodos -->
+  </suite> <!-- com.cunori_practica07_jar_1.0-SNAPSHOT -->
+</testng-results>
