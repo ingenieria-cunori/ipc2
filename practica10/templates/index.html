@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+<h2>
+    Lenguajes
+</h2>
+{% endblock %}
+{% block body %}
+<ul>
+    {% for item in lista %}
+    <li>{{ item }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}

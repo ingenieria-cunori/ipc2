@@ -1,0 +1,21 @@
+// Comencemos creando un nuevo usuario en el shell de MySQL:
+
+CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'cunori'@'localhost' IDENTIFIED BY 'cunori';
+
+// En este momento, newuser no tiene permisos para hacer nada con las bases de datos. 
+// De hecho, incluso si newuser intenta iniciar sesión (con la contraseña, password), 
+// no podrá acceder al shell de MySQL.
+// Por lo tanto, lo primero que se debe hacer es proporcionar al usuario acceso a la 
+// información que necesitará.
+
+GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';
+GRANT ALL PRIVILEGES ON flask. * TO 'cunori'@'localhost';
+
+// Una vez que haya finalizado los permisos que desea configurar para sus nuevos usuarios, 
+// asegúrese siempre de volver a cargar todos los privilegios.
+FLUSH PRIVILEGES;
+
+
+
+
